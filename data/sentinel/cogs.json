@@ -1,0 +1,13 @@
+{
+    "cogs.alias" : true,
+    "cogs.audio" : false,
+    "cogs.customcom" : false,
+    "cogs.downloader" : true,
+    "cogs.economy" : false,
+    "cogs.general" : false,
+    "cogs.image" : false,
+    "cogs.mod" : false,
+    "cogs.owner" : false,
+    "cogs.streams" : false,
+    "cogs.trivia" : false
+}
