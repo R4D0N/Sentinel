@@ -172,7 +172,7 @@ def reset_sentinel(reqs=False, data=False, cogs=False, git_reset=False):
 
 def download_ffmpeg(bitness):
     clear_screen()
-    repo = "https://github.com/Twentysix26/Red-DiscordBot/raw/master/"
+    repo = "https://github.com/R4D0N/Sentinel"
     verified = []
 
     if bitness == "32bit":
